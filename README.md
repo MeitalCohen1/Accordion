@@ -1,5 +1,6 @@
-#### Idea
+# Accordion
 
-[uidesigndaily](https://uidesigndaily.com/posts/sketch-accordion-website-day-1175)
+A simple accordion style app built with React.
+Built as part of a React course.
 
-![](./idea.png);
+[Visit project site](meital-accordion.netlify.app)
